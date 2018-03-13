@@ -1,16 +1,16 @@
-My First Webpage
+# _My First Webpage_
 
-By BLF, VJP, and CWF  
+#### By _**BLF, VJP, and CWF**_  
 
-Description
-This static webpage demonstrates most commonly used HTML tags, including <p>, <h1>, <ol>, <li>, <ul>.
+## Description
+_This static webpage demonstrates most commonly used HTML tags, including <p>, <h1>, <ol>, <li>, <ul>._
 
- Setup
- Clone this repository and open in browser.
+## Setup
+ _Clone this repository and open in browser._
 
-Technology Used
- HTML
+## Technology Used
+_HTML_
 
-Legal
-Copyright (c) 2018 BLF, VJP, and CWF
-This software is licensed under the MIT license.
+## Legal
+Copyright (c) **_2018 BLF, VJP, and CWF_**
+_This software is licensed under the MIT license._

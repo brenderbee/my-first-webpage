@@ -1,17 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica", sans-serif;
+}
+
 h1 {
-  color: #00f;
+  color: red;
+  margin: 0 0 25px 32px;
 }
 
 h2 {
-  font-style: italic;
+  font-weight: bold;
   text-align: center;
 }
 
 p {
-  font-family: "Helvetica", sans-serif;
+  font-style: italic;
+  font-size: 16px;
+  font-family: "Times New Roman", serif;
+  margin: 0 0 25px 32px;
 }
 
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+.places {
+  max-width: 400px;
+  margin: 0 0;
+}
+
+.places h2, li, p {
+  text-align: left;
+  margin: 0;
+  font-style: normal;
+}
+
+.places img {
+  height: 250px;
+  width: 100%;
+  overflow: hidden;
 }
